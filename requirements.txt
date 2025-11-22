@@ -1,0 +1,7 @@
+camelot-py 
+numpy 
+scipy 
+scikit-learn 
+lightgbm 
+matplotlib 
+tensorflow
