@@ -1,7 +1,10 @@
 # Quick useful links
 
-Access Code [Source Code](https://github.com/codewithgabriel/tutor_recommendation_system/blob/main/tutor-recommendation-system.ipynb)
+Acces Code [Source Code](https://github.com/codewithgabriel/tutor_recommendation_system/blob/main/tutor-recommendation-system.ipynb)
 
+Access to  [recommendation.csv file](https://github.com/codewithgabriel/tutor_recommendation_system/blob/main/recommendations.csv)
+
+Access to [engineered_features.csv](https://github.com/codewithgabriel/tutor_recommendation_system/blob/main/engineered_features.csv)
 
 # Introduction
 
