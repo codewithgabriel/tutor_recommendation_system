@@ -1,3 +1,8 @@
+# Quick useful links
+
+Access Code [Source Code](https://github.com/codewithgabriel/tutor_recommendation_system/blob/main/tutor-recommendation-system.ipynb)
+
+
 # Introduction
 
 In this notebook, a Tutor Recommendation System is built using the provided documents in the email for the assessment which include  `students.pdf` and `tutors.pdf` files, the methological approach employed is a combination of a content base filtering with scoring system for feature engineering and  LightGBM (Gradient Boost Model) and ANN (Artificial Neural Network) model  for recommendation and ranking. 
