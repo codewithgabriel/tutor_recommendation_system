@@ -1,0 +1,11 @@
+,tutor_id,name,expertise_languages,programming_specialty,teaching_style,hobbies
+0,T1,Mr. Smith,English,Python,structured,gaming
+1,T2,Ms. Claire,French,JavaScript,interactive,reading
+2,T3,Juan Pablo,Spanish,Python,conversational,football
+3,T4,Linda,English,Java,project-based,art
+4,T5,Hans,German,Python,structured,blogging
+5,T6,Pierre,French,C++,analytical,robotics
+6,T7,Yvonne,English,JavaScript,interactive,fashion
+7,T8,Carlos,Spanish,Python,hands-on,fitness
+8,T9,Min-ji,Korean,JavaScript,visual,k-drama
+9,T10,Adrian,English,Rust,advanced-conceptscoding,

@@ -1,0 +1,11 @@
+,student_id,name,hobbies,learning_language,programming_focus,level
+0,S1,Daniel,"gaming, music",English,Python,beginner
+1,S2,Aisha,"reading, chess",French,JavaScript,beginner
+2,S3,Kelvin,"football, coding",Spanish,Python,intermediate
+3,S4,Maria,"art, movies",English,Java,beginner
+4,S5,Zainab,"music, blogging",German,Python,advanced
+5,S6,Chidi,"coding, robotics",French,C++,intermediate
+6,S7,Fatima,"fashion, makeup English",English,JavaScript,beginner
+7,S8,John,"gaming, fitness",Spanish,Python,intermediate
+8,S9,Leah,"reading, k-drama Korean",Korean,JavaScript,beginner
+9,S10,Emmanuel,"robotics, coding",English,Rust,advanced

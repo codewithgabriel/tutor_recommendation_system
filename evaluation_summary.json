@@ -1,0 +1,13 @@
+{
+  "lambdarank_ndcg_by_student": [
+    {
+      "student_id": "S8",
+      "ndcg@3": 1.0
+    },
+    {
+      "student_id": "S9",
+      "ndcg@3": 1.0
+    }
+  ],
+  "lambdarank_mean_ndcg@3": 1.0
+}

@@ -1,0 +1,31 @@
+,student_id,tutor_id,pred_relevance_score,target_label,student_name,student_hobbies,student_language,programming_focus,level,tutor_name,tutor_language,programming_specialty,teaching_style,tutor_hobbies
+0,S1,T1,9.795787811279297,10,Daniel,"{'music', 'gaming'}",English,Python,beginner,Mr. Smith,English,Python,structured,{'gaming'}
+1,S1,T5,5.85554838180542,6,Daniel,"{'music', 'gaming'}",English,Python,beginner,Hans,German,Python,structured,{'blogging'}
+2,S1,T7,4.949149131774902,5,Daniel,"{'music', 'gaming'}",English,Python,beginner,Yvonne,English,JavaScript,interactive,{'fashion'}
+3,S10,T10,6.162679672241211,7,Emmanuel,"{'robotics', 'coding'}",English,Rust,advanced,Adrian,English,Rust,advanced-conceptscoding,set()
+4,S10,T4,5.324016571044922,5,Emmanuel,"{'robotics', 'coding'}",English,Rust,advanced,Linda,English,Java,project-based,{'art'}
+5,S10,T6,4.271839141845703,3,Emmanuel,"{'robotics', 'coding'}",English,Rust,advanced,Pierre,French,C++,analytical,{'robotics'}
+6,S2,T2,9.5956449508667,10,Aisha,"{'reading', 'chess'}",French,JavaScript,beginner,Ms. Claire,French,JavaScript,interactive,{'reading'}
+7,S2,T9,5.613119602203369,6,Aisha,"{'reading', 'chess'}",French,JavaScript,beginner,Min-ji,Korean,JavaScript,visual,{'k-drama'}
+8,S2,T7,5.613119602203369,6,Aisha,"{'reading', 'chess'}",French,JavaScript,beginner,Yvonne,English,JavaScript,interactive,{'fashion'}
+9,S3,T3,9.795787811279297,10,Kelvin,"{'football', 'coding'}",Spanish,Python,intermediate,Juan Pablo,Spanish,Python,conversational,{'football'}
+10,S3,T8,8.128262519836426,9,Kelvin,"{'football', 'coding'}",Spanish,Python,intermediate,Carlos,Spanish,Python,hands-on,{'fitness'}
+11,S3,T5,3.800246477127075,4,Kelvin,"{'football', 'coding'}",Spanish,Python,intermediate,Hans,German,Python,structured,{'blogging'}
+12,S4,T4,7.949455261230469,8,Maria,"{'art', 'movies'}",English,Java,beginner,Linda,English,Java,project-based,{'art'}
+13,S4,T7,4.88044548034668,5,Maria,"{'art', 'movies'}",English,Java,beginner,Yvonne,English,JavaScript,interactive,{'fashion'}
+14,S4,T1,4.871168613433838,5,Maria,"{'art', 'movies'}",English,Java,beginner,Mr. Smith,English,Python,structured,{'gaming'}
+15,S5,T5,7.909000396728516,8,Zainab,"{'blogging', 'music'}",German,Python,advanced,Hans,German,Python,structured,{'blogging'}
+16,S5,T1,3.800246477127075,4,Zainab,"{'blogging', 'music'}",German,Python,advanced,Mr. Smith,English,Python,structured,{'gaming'}
+17,S5,T8,3.800246477127075,4,Zainab,"{'blogging', 'music'}",German,Python,advanced,Carlos,Spanish,Python,hands-on,{'fitness'}
+18,S6,T6,8.240164756774902,8,Chidi,"{'robotics', 'coding'}",French,C++,intermediate,Pierre,French,C++,analytical,{'robotics'}
+19,S6,T2,4.965468883514404,5,Chidi,"{'robotics', 'coding'}",French,C++,intermediate,Ms. Claire,French,JavaScript,interactive,{'reading'}
+20,S6,T8,2.152941942214966,2,Chidi,"{'robotics', 'coding'}",French,C++,intermediate,Carlos,Spanish,Python,hands-on,{'fitness'}
+21,S7,T7,9.5956449508667,10,Fatima,"{'fashion', 'makeup english'}",English,JavaScript,beginner,Yvonne,English,JavaScript,interactive,{'fashion'}
+22,S7,T2,5.613119602203369,6,Fatima,"{'fashion', 'makeup english'}",English,JavaScript,beginner,Ms. Claire,French,JavaScript,interactive,{'reading'}
+23,S7,T9,5.613119602203369,6,Fatima,"{'fashion', 'makeup english'}",English,JavaScript,beginner,Min-ji,Korean,JavaScript,visual,{'k-drama'}
+24,S8,T8,9.795787811279297,10,John,"{'fitness', 'gaming'}",Spanish,Python,intermediate,Carlos,Spanish,Python,hands-on,{'fitness'}
+25,S8,T3,8.128262519836426,9,John,"{'fitness', 'gaming'}",Spanish,Python,intermediate,Juan Pablo,Spanish,Python,conversational,{'football'}
+26,S8,T1,5.8122124671936035,5,John,"{'fitness', 'gaming'}",Spanish,Python,intermediate,Mr. Smith,English,Python,structured,{'gaming'}
+27,S9,T2,8.145326614379883,7,Leah,"{'reading', 'k-drama korean'}",Korean,JavaScript,beginner,Ms. Claire,French,JavaScript,interactive,{'reading'}
+28,S9,T9,7.99958610534668,9,Leah,"{'reading', 'k-drama korean'}",Korean,JavaScript,beginner,Min-ji,Korean,JavaScript,visual,{'k-drama'}
+29,S9,T7,5.613119602203369,6,Leah,"{'reading', 'k-drama korean'}",Korean,JavaScript,beginner,Yvonne,English,JavaScript,interactive,{'fashion'}

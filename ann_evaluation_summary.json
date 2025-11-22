@@ -1,0 +1,13 @@
+{
+  "ann_ndcg_by_student": [
+    {
+      "student_id": "S8",
+      "ndcg@3": 1.0
+    },
+    {
+      "student_id": "S9",
+      "ndcg@3": 0.77237940357002
+    }
+  ],
+  "ann_mean_ndcg@3": 0.88618970178501
+}
